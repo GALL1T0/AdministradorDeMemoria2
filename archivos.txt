@@ -1,0 +1,6 @@
+hola_mundo.py, 500kb
+lista_de_compras.txt, 950kb
+resumen.docx, 1200kb
+persona.h, 350kb
+reporte.xlsx, 2000kb
+fornais, 500 kb, 20 peso
